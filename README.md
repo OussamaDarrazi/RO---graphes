@@ -20,7 +20,7 @@ print(graphe.dijkstra("a"))
 ```
 ### ou bellman ford:
 ```python
-print(graphe.dijkstra("a"))
+print(graphe.bellman_ford("a"))
 ```
 
 ### Output:
